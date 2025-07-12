@@ -72,7 +72,7 @@ The comprehensive guide includes:
 
 1. **Download** the latest binary from the `/Release` folder
 2. **Follow** the [official installation guide](https://wiki.dbzer0.com/genp-guides/guide/#guide-2)
-4. **Run as Administrator** and follow on-screen instructions
+3. **Join** the [community](https://lemmy.dbzer0.com/c/GenP) for support
 
 ## Support & Resources
 
