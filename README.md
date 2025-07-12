@@ -1,11 +1,11 @@
-# Adobe GenP - Latest Source & Release
+# GenP - Latest Source & Release
 
 > **Mirror of GenP following r/GenP's takedown**
 
 ## 💡 Legal Disclaimer
 
 > [!Important]
-> This mirror repository exists following the takedown of the original reddit community. The owner(s) and maintainer(s) of this repository are not affiliated with Adobe, the original developers, or the official community, and do not endorse copyright infringement. This repository exists solely for educational, research, and preservation purposes.
+> This mirror repository only exists following the takedown of the original reddit community. The owner(s) and maintainer(s) of this repository are not affiliated with Adobe, the original developers, or the official community, and do not endorse copyright infringement. This repository exists solely for educational, research, and preservation purposes.
 
 ⚠️ **Educational Use & Legal Responsibility**: 
 - This tool is provided strictly for educational and research purposes
