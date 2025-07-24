@@ -1,43 +1,44 @@
 # GenP - Latest Source & Release
 
-> **Mirror of GenP following r/GenP's takedown**
+> **Mirror of the latest GenP following `r/GenP's` takedown**
 
 ## 💡 Legal Disclaimer
 
 > [!Important]
-> This mirror repository only exists following the takedown of the original reddit community. The owner(s) and maintainer(s) of this repository are not affiliated with Adobe, the original developers, or the official community, and do not endorse copyright infringement. This repository exists solely for educational, research, and preservation purposes.
+> This mirror repository only exists following the takedown of the original reddit community. The owner and maintainer(s) of this repository are not affiliated with the original developers, or the official community, and do not endorse copyright infringement. This repository exists solely for educational, and research purposes.
 
 ⚠️ **Educational Use & Legal Responsibility**: 
 - This tool is provided strictly for educational and research purposes
-- Users are fully responsible for complying with Adobe's Terms of Service
+- Users are fully responsible for complying with the developer's Terms of Service
 - Respect intellectual property rights and applicable laws
 - Users assume all legal responsibility for use of this software
-- This mirror is maintained for preservation and educational purposes
+- This mirror is maintained for educational and research purposes
 - No warranties or guarantees are provided
+- 
 
 ## About
 
-This repository serves as a **mirror** of the GenP tool, preserving access to the source code and binaries after the original Reddit community was taken down due to Adobe's DMCA claim.
+This repository serves as a **mirror** of the GenP tool, preserving access to the source code and binaries after the original Reddit community was taken down due to the developer's DMCA claim.
 
 ## What is GenP?
 
-**GenP** (Generic Patcher) is a tool designed to extend Adobe Creative Cloud trial periods on Windows systems. It works by modifying certain system files to reset trial timers, allowing users to continue using Adobe software beyond the standard trial period.
+**GenP** (Generic Patcher) is a tool designed to extend Creative Cloud trial periods on Windows systems. It works by modifying certain system files to reset trial timers, allowing users to continue using Adobe software beyond the standard trial period.
 
 ## Available Downloads
 
 | Type | Description | Location |
 |------|-------------|----------|
-| **Ready-to-Use Binary** | Pre-compiled executable | `/Release` folder |
-| **Source Code** | Complete source files | `/Source Code` folder |
-| **Build Tools** | Development utilities | Included in source |
+| **Ready-to-Use Binary** | Pre-compiled executable | `/Release` directory |
+| **Source Code** | Complete source files | `/Source Code` directory |
+| **Build Tools** | Development utilities | Included in the source |
 
 ## System Requirements
 
 - **Operating System**: Windows 10 and 11 only
-- **Unsupported Systems**: macOS, Linux, or modified Windows versions
+- **Unsupported Systems**: macOS and Linux
 - **Architecture**: ARM architecture is not supported
   - *Note: Qualcomm (Snapdragon) CPUs, often branded as Copilot+ PCs, use ARM architecture and are incompatible*
-- **Adobe Creative Cloud**: Must be installed first
+- **Adobe Creative Cloud**: Must be installed first with no AGS (Genuine Service)
 - **Administrator Rights**: Required for proper functionality
 - **Antivirus**: May need to be disabled or configured with exclusions
 
@@ -65,7 +66,7 @@ The comprehensive guide includes:
 
 - **Latest Version**: GenP v3.6.8 CGP is the current version
 - **Browser Setup**: Recommended to use uBlock Origin or AdGuard for safe downloading
-- **AI Features**: Generative Fill, Firefly, and other AI features require active subscriptions
+- **AI Features**: Generative Fill, Firefly, and other AI features require active, genuine subscriptions
 - **Regular Updates**: Apps and Creative Cloud require re-patching after updates
 
 ## Quick Start Guide
@@ -76,6 +77,6 @@ The comprehensive guide includes:
 
 ## Support & Resources
 
-- **📚 Official Guide**: [Complete GenP Documentation](https://wiki.dbzer0.com/genp-guides/guide/#guide-2)
+- **📚 Official Guide**: [Complete GenP Documentation](https://wiki.dbzer0.com/genp-guides)
 - **💬 Community Discussion**: [GenP on Lemmy](https://lemmy.dbzer0.com/c/GenP)
 - **🗨️ Real-time Chat**: [Revolt Community](https://app.revolt.chat/invite/cgccWFFx)
