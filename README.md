@@ -14,7 +14,6 @@
 - Users assume all legal responsibility for use of this software
 - This mirror is maintained for educational and research purposes
 - No warranties or guarantees are provided
-- 
 
 ## About
 
@@ -67,7 +66,7 @@ The comprehensive guide includes:
 - **Latest Version**: GenP v3.6.8 CGP is the current version
 - **Browser Setup**: Recommended to use uBlock Origin or AdGuard for safe downloading
 - **AI Features**: Generative Fill, Firefly, and other AI features require active, genuine subscriptions
-- **Regular Updates**: Apps and Creative Cloud require re-patching after updates
+- **Regular Updates**: Creative Cloud and Apps require re-patching after updates
 
 ## Quick Start Guide
 
