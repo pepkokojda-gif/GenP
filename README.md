@@ -1,11 +1,11 @@
-# GenP - Latest Source & Release
+# GenP
 
 > **Mirror of the latest GenP following `r/GenP's` takedown**
 
 ## 💡 Legal Disclaimer
 
 > [!Important]
-> This mirror repository only exists following the takedown of the original reddit community. The owner and maintainer(s) of this repository are not affiliated with the original developers, or the official community, and do not endorse copyright infringement. This repository exists solely for educational, and research purposes.
+> This mirror repository only exists following the takedown of the original reddit community. The owner and maintainer(s) of this repository are not affiliated with the original developers, or the GenP community, and do not endorse copyright infringement. This repository exists solely for educational, and research purposes.
 
 ⚠️ **Educational Use & Legal Responsibility**: 
 - This tool is provided strictly for educational and research purposes
@@ -21,7 +21,7 @@ This repository serves as a **mirror** of the GenP tool, preserving access to th
 
 ## What is GenP?
 
-**GenP** (Generic Patcher) is a tool designed to extend Creative Cloud trial periods on Windows systems. It works by modifying certain system files to reset trial timers, allowing users to continue using Adobe software beyond the standard trial period.
+**GenP** (Generic Patcher) is a tool designed to extend Creative Cloud trial periods on Windows systems. It works by modifying certain system files to reset trial timers, allowing users to continue using the software beyond the standard trial period.
 
 ## Available Downloads
 
@@ -37,7 +37,7 @@ This repository serves as a **mirror** of the GenP tool, preserving access to th
 - **Unsupported Systems**: macOS and Linux
 - **Architecture**: ARM architecture is not supported
   - *Note: Qualcomm (Snapdragon) CPUs, often branded as Copilot+ PCs, use ARM architecture and are incompatible*
-- **Adobe Creative Cloud**: Must be installed first with no AGS (Genuine Service)
+- **Creative Cloud**: Must be installed first with no AGS (Genuine Service)
 - **Administrator Rights**: Required for proper functionality
 - **Antivirus**: May need to be disabled or configured with exclusions
 
@@ -66,6 +66,7 @@ The comprehensive guide includes:
 - **Latest Version**: GenP v3.6.8 CGP is the current version
 - **Browser Setup**: Recommended to use uBlock Origin or AdGuard for safe downloading
 - **AI Features**: Generative Fill, Firefly, and other AI features require active, genuine subscriptions
+- **App Compatibility**: Always check the [compatible app versions](https://wiki.dbzer0.com/genp-guides/compatibility-list) before patching with GenP (updated regularly)
 - **Regular Updates**: Creative Cloud and Apps require re-patching after updates
 
 ## Quick Start Guide
