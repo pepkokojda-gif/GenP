@@ -1,105 +1,305 @@
+
 # GenP
 
----
+## 📋 Table of Contents
 
-> **Mirror of the latest GenP following `r/GenP's` takedown**
+- [⚖️ Legal Disclaimer](#️-legal-disclaimer)
+- [🚨 Security Warning](#-security-warning)
+- [❓ About GenP](#-about-genp)
+- [✅ System Requirements](#-system-requirements)
+- [📥 Downloads](#-downloads)
+- [📖 Documentation](#-documentation)
+- [⚠️ Known Limitations](#️-known-limitations)
+- [🌐 Community](#-community)
 
 ---
 
 ## ⚖️ Legal Disclaimer
 
-> [!Important]
-> This mirror repository **only** exists following the takedown of the reddit community. The owner and maintainer(s) of this repository are **NOT affiliated** with the developers, or the GenP community, and **do NOT endorse copyright infringement**. This repository exists solely for educational, and research purposes.
-
-⚠️ **This tool is provided strictly for**: 
-- Educational and research purposes only
-- Users assume **full responsibility** for compliance with applicable laws and ToS
-- **No warranties or guarantees** are provided for any use
-
----
-
-## About
-
-This repository serves as a **mirror** of the GenP tool, preserving access to the source code and binaries after the original Reddit community was taken down due to the developer's DMCA claim.
-
----
-
-## What is GenP?
-
-**GenP** (Generic Patcher) is a tool designed to extend Creative Cloud trial periods on Windows systems. It works by modifying certain system files to reset trial timers, allowing users to continue using the software beyond the standard trial period.
+> [!IMPORTANT]
+>
+> This mirror repository **only** exists following the takedown of the reddit community. The owner and maintainer(s) of this repository are:
+> - **NOT affiliated** with the official/unofficial GenP community
+> - **DO NOT endorse** copyright infringement or piracy
+> - Provide this for **educational and research purposes only**
+>
+> **Terms of Use:**
+> - This software is strictly for **educational and research purposes only**
+> - Users assume **full responsibility** for any use
+> - **No warranties or guarantees** provided for any use
+> - Owner/maintainers accept **no liability** for any misuse
 
 ---
 
-## Available Downloads
+## 🚨 Security Warning
 
-| Type | Description | Location |
-|------|-------------|----------|
-| **Ready-to-Use Binary** | Pre-compiled executable | `/Release` directory |
-| **Source Code** | Complete source files | `/Source Code` directory |
-| **Build Tools** | Development utilities | Included in the source |
-
----
-
-## System Requirements
-
-- **Operating System**: Windows 10 and 11 only
-- **Unsupported Systems**: macOS and Linux
-- **Architecture**: ARM architecture is not supported
-  - *Note: Qualcomm (Snapdragon) CPUs, often branded as Copilot+ PCs, use ARM architecture and are incompatible*
-- **Creative Cloud**: Must be installed first with no AGS (Genuine Service)
-- **Administrator Rights**: Required for proper functionality
-- **Antivirus**: May need to be disabled or configured with exclusions
-
----
-
-## Official Documentation & Community
-
-### 📖 **Complete Installation Guide**
-**[GenP Guides - Official Documentation](https://wiki.dbzer0.com/genp-guides/guide/#guide-2)**
-
-The comprehensive guide includes:
-- **Multiple Installation Methods**: CC + GenP (Guide #2) and Monkrus alternatives (Guide #7)
-- **Step-by-step installation instructions** with detailed screenshots
-- **Troubleshooting guides** for common issues and solutions
-- **Compatibility lists** regularly updated for app versions
-- **Advanced configuration options** including popup blocking methods
-- **Antivirus whitelist instructions** for major antivirus software
-- **Full system cleaning guide** (Guide #4) for fresh installations
+> [!WARNING]
+> **NEVER DOWNLOAD GenP FROM:**
+> 
+> | Source Type | Examples |
+> |-------------|----------|
+> | **Video Platforms** | YouTube tutorials, TikTok, video descriptions |
+> | **Code Hosting** | GitHub (always check the sources and binaries), GitLab |
+> | **Social Media** | Discord servers, Telegram channels, Reddit posts |
+> | **File Sharing** | MediaFire, Mega.nz, torrent sites, P2P networks |
+> | **Third-Party Sites** | Any site with ads, surveys, wait times, or extra clicks |
+>
+> **These sources commonly contain:**
+> - Embedded malware, trojans, and ransomware
+> - Modified versions with backdoors
+> - Fake installers bundled with adware
+> - Outdated versions causing system damage
+> - Password stealers and keyloggers
+>
+> **Red Flags (You're on a fake/dangerous site if you see):**
+> - Extra clicks, surveys, or tasks required before download
+> - Requests for payment or donations
+> - Multiple download buttons (ads disguised as downloads)
+> - Shortened URLs or redirect chains
+> - Claims of "premium" or "pro" versions
+> - Requests for personal information
 
 ---
 
-### 🌐 **Active Community Support**
+## ❓ About GenP
 
-**Join the community for real-time help and updates:**
-- **[GenP Community on Lemmy](https://lemmy.dbzer0.com/c/GenP)** - Main discussion hub
-- **[Revolt Chat](https://app.revolt.chat/invite/cgccWFFx)** - Live community support
+**GenP** (Generic Patcher) is a Windows-based utility designed to extend Creative Cloud trial periods indefinitely by modifying system files and resetting trial timers.
 
----
+### 🌟 Key Features
 
-### ⚠️ **Important Notes**
-
-- **Latest Version**: GenP v3.6.9 is the current version
-- **Browser Setup**: Recommended to use uBlock Origin or AdGuard for safe downloading
-- **AI Features**: Generative Fill, Firefly, and other AI features require active, genuine subscriptions
-- **App Compatibility**: Always check the [compatible app versions](https://wiki.dbzer0.com/genp-guides/compatibility-list) (updated regularly) before patching with GenP
-- **Regular Updates**: Creative Cloud and Apps require re-patching after updates
+- ✅ **One-Click Patching** - Simple, automated process
+- ✅ **Wide Compatibility** - Supports CC 2019-2025 apps
+- ✅ **Update Support** - Works with Creative Cloud updates (re-patch required)
+- ✅ **AGS Removal** - Automatically removes Genuine Service
+- ✅ **Community-Driven** - Active support and regular updates
+- ✅ **100% Free** - No payments, no donations, no subscriptions
 
 ---
 
-## Quick Start Guide
+## ✅ System Requirements
 
-1. **Download** the latest binary from the `/Release` folder
-2. **Follow** the [official installation guide](https://wiki.dbzer0.com/genp-guides/guide/#guide-2)
-3. **Join** the [community](https://app.revolt.chat/invite/cgccWFFx) for any kind of support
+### 🟢 Fully Supported
+
+<table>
+<tr>
+<td width="50%">
+
+**Operating System**
+- ✅ Windows 10 (64-bit)
+- ✅ Windows 11 (64-bit)
+- ✅ Official Microsoft builds only
+
+</td>
+<td width="50%">
+
+**Hardware**
+- ✅ x64/AMD64 CPU (Intel/AMD)
+- ✅ 100MB+ free disk space
+- ✅ Administrator privileges
+- ✅ Internet (for CC installation only)
+
+</td>
+</tr>
+</table>
+
+### 🔴 NOT Supported (may/may not work)
+
+<details>
+<summary><b>🚫 Incompatible Architectures</b></summary>
+
+| Type | Examples | Why It Fails |
+|------|----------|--------------|
+| **ARM64** | Qualcomm Snapdragon X Elite/Plus | GenP requires native x64 for low-level patching |
+| **Copilot+ PCs** | Surface Pro 11, Dell XPS 13 (2024+), HP Elite Folio | Use ARM processors |
+| **Windows on ARM** | All devices with Snapdragon processors | Emulation layer breaks patching |
+| **x86 (32-bit)** | Old systems, legacy hardware | GenP only supports 64-bit |
+
+**Technical Explanation:** GenP modifies binaries at a low level. Windows on ARM uses Prism emulation for x64 apps, which interferes with patching. Additionally, Adobe is transitioning to native ARM64 builds with no x64 binaries to patch.
+
+</details>
+
+<details>
+<summary><b>🚫 Incompatible Operating Systems</b></summary>
+
+| OS | Alternative Solution |
+|----|---------------------|
+| **macOS** (all versions) | Use [Zii](https://adobezii.com) or [Cmacked](https://cmacked.com) |
+| **Linux** (Ubuntu, Kali, Arch, etc.) | No native solution available |
+| **Windows 7/8/8.1** | Upgrade to Windows 10/11 |
+
+</details>
+
+<details>
+<summary><b>🚫 Modified Windows Editions</b></summary>
+
+❌ **These Windows variants are NOT supported:**
+
+- **LTSC** (Long-Term Servicing Channel) - Missing system components
+- **IoT** (Internet of Things editions) - Stripped functionality
+- **Tiny10/Tiny11** - Removed critical Windows features
+- **GhostSpectre** - Heavily modified builds
+- **Windows PE** (Preinstallation Environment) - Not a full OS
+- **Debloated/Custom Builds** - Missing dependencies
+- **Windows Insider Preview** - Unstable, no support
+
+**Why?** GenP modifies applications directly, so all official system requirements apply. Modified Windows editions often lack necessary system libraries, registry entries, and services that GenP and apps depend on.
+
+</details>
+
+### ⚙️ Additional Requirements
+
+- **Creative Cloud** must be installed from [Official website](https://creativecloud.adobe.com)
+- **Antivirus exclusions** configured (GenP triggers false positives)
+- **Dummy account** recommended (never use your primary account)
+- **AGS (Genuine Service)** will be removed by GenP
 
 ---
 
-## Support & Resources
+## 📥 Downloads
 
-- **📚 Official Guide**: [Complete GenP Documentation](https://wiki.dbzer0.com/genp-guides)
-- **💬 Community Discussion**: [GenP on Lemmy](https://lemmy.dbzer0.com/c/GenP)
-- **🗨️ Real-time Chat**: [Revolt Community](https://app.revolt.chat/invite/cgccWFFx)
+### Available in This Repository
+
+| Type | Location | Description |
+|------|----------|-------------|
+| **Binaries** | `/Releases/` | Pre-compiled executables |
+| **Source Codes** | `/SRCs/` | Complete source files |
+| **Build Tools** | Included in source | Development utilities |
+
+### Version Information
+
+- **Latest Stable:** v3.7.0 (recommended, fixes v2026 apps)
+- **Legacy Versions:** See [Releases](https://github.com/Cur10s1tyByt3/GenP/releases)/[Source Codes](https://github.com/Cur10s1tyByt3/GenP/tree/main/Source%20Code) for older builds/source codes
 
 ---
 
-**Use at your own risk! This tool is intended for educational, and research purposes only!**
+## 📖 Documentation
+
+### Official Resources
+
+<table>
+<tr>
+<td width="50%">
+
+**📚 Main Guides**
+- [Installation Guide](https://wiki.dbzer0.com/genp-guides/guide)
+- [GenP Setup & Best Practices](https://wiki.dbzer0.com/genp-guides/genp-setup)
+- [Monkrus Setup Guide](https://wiki.dbzer0.com/genp-guides/monkrus-setup)
+- [Full System Cleaning](https://wiki.dbzer0.com/genp-guides/cleaning)
+
+</td>
+<td width="50%">
+
+**🔧 Support Resources**
+- [Troubleshooting Guide](https://wiki.dbzer0.com/genp-guides/troubleshoot)
+- [Compatibility List](https://wiki.dbzer0.com/genp-guides/compatibility-list)
+- [GenP vs Monkrus Comparison](https://wiki.dbzer0.com/genp-guides/genp-vs-monkrus)
+- [Community Rules](https://wiki.dbzer0.com/genp-guides/rules)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚠️ Known Limitations
+
+### AI Features Require Genuine Subscription
+
+<table>
+<tr>
+<th>❌ Does NOT Work</th>
+<th>✅ Still Works</th>
+</tr>
+<tr>
+<td valign="top">
+
+**Cloud-Based AI (Requires Subscription):**
+- Generative Fill (Firefly mode)
+- Firefly integration
+- AI Background Removal (cloud)
+- Neural Filters (cloud processing)
+- Generative AI text effects (Illustrator)
+- AI audio enhancement (Premiere/Audition)
+- Content Credentials
+- Creative Cloud Libraries sync
+
+</td>
+<td valign="top">
+
+**Local AI/Traditional Tools:**
+- Content-Aware Fill (non-Firefly mode)
+- Sensei ML tools (local)
+- Object Selection & Select Subject
+- Sky Replacement
+- Neural Filters (local models only)
+- Traditional editing tools
+- Most Photoshop features
+
+</td>
+</tr>
+</table>
+
+### Workarounds
+
+<details>
+<summary><b>🔧 Photoshop Remove Tool Workaround</b></summary>
+
+In Photoshop, set Remove Tool mode to **"Generative AI Off"**. This reverts to Sensei (traditional machine learning) instead of cloud-based Firefly, allowing local processing.
+
+**Note:** Illustrator, Premiere Pro, InDesign, Lightroom, After Effects, and Express do NOT offer Generative AI toggle options - their AI features are fully cloud-based and require subscriptions.
+
+</details>
+
+### Update Requirements
+
+- Apps require **re-patching after every update**
+- Creative Cloud may push updates automatically
+- Always **keep GenP.exe** for future re-patches
+- Updates occur monthly or bi-monthly
+
+---
+
+## 🌐 Community
+
+### Official Support Channels
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💬 Lemmy Forum
+**[lemmy.dbzer0.com/c/GenP](https://lemmy.dbzer0.com/c/GenP)**
+
+📝 Long-form discussions<br>
+📚 Guides and tutorials<br>
+🔍 Searchable archive<br>
+📌 Announcements
+
+</td>
+<td align="center" width="33%">
+
+### 🗨️ Stoat Chat
+**[stoat.chat/invite/p3V3ETD4](https://stoat.chat/invite/p3V3ETD4)**
+
+⚡ Real-time support<br>
+👥 Community help<br>
+🤝 Quick questions<br>
+💡 Tips and tricks
+
+</td>
+<td align="center" width="33%">
+
+### 📖 Official Wiki
+**[wiki.dbzer0.com/genp-guides](https://wiki.dbzer0.com/genp-guides)**
+
+📘 Complete documentation<br>
+🔧 Troubleshooting guides<br>
+📋 Compatibility lists<br>
+
+</td>
+</tr>
+</table>
+
+---
+
+**This tool is intended for educational and research purposes only! Use at your own risk.**
